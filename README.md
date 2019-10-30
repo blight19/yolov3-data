@@ -4,14 +4,14 @@
 本程序仅用于标注精灵工具标注出的数据转换  
 
 待转换的数据目录为  
-TASKDIR  
-  --目录1  
-    --XMLDIR  
-    --IMGDIR
-  --目录2
-    --XMLDIR
-    --IMGDIR
-   ...
+>TASKDIR  
+>>目录1  
+>>>XMLDIR  
+>>>IMGDIR
+>>目录2
+>>>MLDIR
+>>>IMGDIR
+>>...
 输出目录手动创建下
 data
   --img
